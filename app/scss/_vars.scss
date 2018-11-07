@@ -1,0 +1,13 @@
+$default-font: Arial,"Helvetica Neue",Helvetica,sans-serif;
+$header-font: "Frankfurter", sans-serif;
+$accent: #ffcc00;
+$main: #008999;
+$text: #08363b;
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 20px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 850px, lg: 990px, xl: 1160px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 860px, xl: 980px);
+
+$gutter: $grid-gutter-width;
